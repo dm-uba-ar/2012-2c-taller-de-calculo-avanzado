@@ -1,14 +1,48 @@
-# Taller de Cálculo Avanzado — Segundo cuatrimestre de 2012
+# Taller de Cálculo Avanzado
 
-## Prácticas
+## Novedades
 
-- [Guia 1](ejercicios2012.pdf)
-- [Práctica 1](practica1.pdf)
-- [Práctica 5](practica5.pdf)
-- [Práctica 2](practica-2.pdf)
-- [Práctica 3](practica-3.pdf)
-- [Práctica 4](practica-4.pdf)
+\
 
-## Página original
+- Entregamos los recuperatorios el jueves 20/12 a las 15h en el bar del Pab I. El que no pueda concurrir en ese momento, por favor contactenos via email.
+\
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2012/taller_de_calculo_avanzado)
+## 
+
+## Docentes, horarios y aulas
+
+\
+\
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |
+
+**Docentes** |
+
+**Horarios** |
+
+**Aula** |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Práctica** | [Daniel Carando](mailto:dcarando@dm.uba.ar) - [Joana Terra](mailto:jterra@dm.uba.ar) - Matias Saucedo  Jueves de 10 a 13 | 6 | |
+|
+
+**Teórica** |
+
+[Carlos Cabrelli](mailto:cabrelli@dm.uba.ar) |
+
+Jueves de 14 a 16 |
+
+3 |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Práctica** |
+
+[Carlos Cabrelli](mailto:cabrelli@dm.uba.ar)  - [Joana Terra](mailto:jterra@dm.uba.ar) - Matias Saucedo |
+
+Jueves de 16 a 19 |
+
+3 |
